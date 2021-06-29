@@ -2182,7 +2182,7 @@ h4 {
   background-size: cover;
   background-position: center;
   padding: 0;
-  background-image: url("/assets/img/graduation.jpg");
+  background-image: url(/assets/img/graduation.jpg);
   display: flex;
   flex-direction: row;
   align-items: center;
